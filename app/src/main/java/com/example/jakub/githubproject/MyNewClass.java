@@ -6,6 +6,8 @@ public class MyNewClass{
 
 int length =10;
 
+
+
         System.out.println(length);
 
     }
